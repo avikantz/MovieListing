@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6254" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+        <capability name="Aspect ratio constraints" minToolsVersion="5.1"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Movie Listing" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="AqH-nW-65R">
+                    <rect key="frame" x="217" y="283" width="166" height="35"/>
+                    <fontDescription key="fontDescription" name="Baskerville" family="Baskerville" pointSize="30"/>
+                    <color key="textColor" red="0.0" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="List of frickin' movies I have" textAlignment="center" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xms-MW-Anh">
+                    <rect key="frame" x="199" y="326" width="204" height="21"/>
+                    <fontDescription key="fontDescription" name="Baskerville" family="Baskerville" pointSize="18"/>
+                    <color key="textColor" red="0.0" green="1" blue="0.0" alpha="1" colorSpace="calibratedRGB"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" alpha="0.69999999999999973" contentMode="scaleToFill" image="MovieIcon.png" translatesAutoresizingMaskIntoConstraints="NO" id="tjd-Ab-H6i">
+                    <rect key="frame" x="203" y="81" width="194" height="194"/>
+                    <constraints>
+                        <constraint firstAttribute="width" secondItem="tjd-Ab-H6i" secondAttribute="height" multiplier="1:1" id="AQJ-4R-RT0"/>
+                        <constraint firstAttribute="height" constant="194" id="mUe-Sk-yax"/>
+                    </constraints>
+                </imageView>
+            </subviews>
+            <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+            <constraints>
+                <constraint firstItem="tjd-Ab-H6i" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="81" id="A2C-7M-HDJ"/>
+                <constraint firstItem="tjd-Ab-H6i" firstAttribute="centerX" secondItem="AqH-nW-65R" secondAttribute="centerX" id="ExZ-cs-eoj"/>
+                <constraint firstItem="AqH-nW-65R" firstAttribute="top" secondItem="tjd-Ab-H6i" secondAttribute="bottom" constant="8" id="JSa-1X-etX"/>
+                <constraint firstAttribute="centerX" secondItem="AqH-nW-65R" secondAttribute="centerX" id="R4j-X8-m4q"/>
+                <constraint firstAttribute="centerY" secondItem="AqH-nW-65R" secondAttribute="centerY" id="iOX-J7-hKQ"/>
+                <constraint firstItem="Xms-MW-Anh" firstAttribute="top" secondItem="AqH-nW-65R" secondAttribute="bottom" constant="8" id="ji6-O1-BBx"/>
+                <constraint firstItem="AqH-nW-65R" firstAttribute="centerX" secondItem="Xms-MW-Anh" secondAttribute="centerX" constant="-0.5" id="roE-hM-xju"/>
+            </constraints>
+        </view>
+    </objects>
+    <resources>
+        <image name="MovieIcon.png" width="266" height="266"/>
+    </resources>
+</document>

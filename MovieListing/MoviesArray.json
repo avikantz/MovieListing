@@ -1,0 +1,827 @@
+{
+  "300": [
+    "300 (2006)",
+    "300 - Rise of an Empire (2014)"
+  ],
+  "007 James Bond": [
+    "Dr. No (1962)",
+    "On His Magesty's Secret Service (1969)",
+    "The Spy who Loved Me (1977)",
+    "Octopussy (1983)",
+    "License to Kill (1989)",
+    "Golden Eye (1995)",
+    "Tomorrow Never Dies (1997)",
+    "The World Is Not Enough (1999)",
+    "Die Another Day (2002)",
+    "Casino Royale (2006)",
+    "Quantum of Solace (2008)",
+    "Skyfall (2012)"
+  ],
+  "Ace Ventura": [
+    "Ace Ventura - Pet Detective (1994)",
+    "Ace Ventura - When Nature Calls (1995)"
+  ],
+  "Alice in Wonderland": [
+    "Alice In Wonderland (1951)",
+    "Alice in Wonderland (2010)"
+  ],
+  "American Pie": [
+    "American Pie (1999)",
+    "American Pie 2 (2001)",
+    "American Pie 3 - The Wedding (2003)",
+    "American Pie 4 - Band Camp (2005)",
+    "American Pie 5 - The Naked Mile (2006)",
+    "American Pie 6 - Beta House (2007)",
+    "American Pie 7 - The Book of Love (2009)",
+    "American Pie 8 - Hole In One (2010)",
+    "American Pie 9 - Reunion (2012)"
+  ],
+  "Austin Powers": [
+    "Austin Powers - International Man of Mystery (1997)",
+    "Austin Powers - The Spy Who Shagged Me (1999)",
+    "Austin Powers in Goldmember (2002)"
+  ],
+  "Back to the Future": [
+    "Back to the Future (1985)",
+    "Back to the Future II (1989)",
+    "Back to the Future III (1990)"
+  ],
+  "Batman (Tim Burton)": [
+    "Batman (1989)",
+    "Batman Returns (1992)",
+    "Batman Forever (1995)",
+    "Batman and Robin (1997)"
+  ],
+  "Captain America": [
+    "Captain America - The First Avenger (2011)",
+    "Captain America - The Winter Soldier (2014)"
+  ],
+  "Cats and Dogs": [
+    "Cats and Dogs (2001)",
+    "Cats and Dogs - Revenge of Kitty Galore (2010)"
+  ],
+  "Charlie's Angels": [
+    "Charlie's Angels (2000)",
+    "Charlie's Angels Full Throttle (2003)"
+  ],
+  "Cloudy with a Chance of Meatballs": [
+    "Cloudy with a Chance of Meatballs (2009)",
+    "Cloudy with a Chance of Meatballs 2 (2013)"
+  ],
+  "Despicable Me": [
+    "Despicable Me (2010)",
+    "Despicable Me 2 (2013)"
+  ],
+  "Die Hard": [
+    "Die Hard (1988)",
+    "Die Hard 2 (1990)",
+    "Die Hard 3 - With a Vengeance (1995)",
+    "Die Hard 4 - Live Free or Die Hard (2007)",
+    "Die Hard 5 - A Good Day to Die Hard (2013)"
+  ],
+  "Dragon Ball": [
+    "A Hero's Legacy (1997)",
+    "Cooler's Revenge (1991)",
+    "Return of Cooler (1992)",
+    "Super Android 13 (1992)",
+    "Brolly the Legendary Super Sayain (1993)",
+    "Bojack Unbound (1993)",
+    "Brolly's Second Coming (1994)",
+    "Bio Brolly (1994)",
+    "Fusion Reborn (1995)",
+    "Wrath Of The Dragon (1995)",
+    "Battle of Gods (2013)",
+    "Episode of Bardock (2011)",
+    "The Plan to Eradicate the Super Saiyans (2009)",
+    "YO! Son Goku and his friends return (2008)"
+  ],
+  "Fantastic Four": [
+    "Fantastic Four (2005)",
+    "Fantastic 4 Rise of the Silver Surfer (2007)"
+  ],
+  "Fast and the Furious": [
+    "The Fast and the Furious (2001)",
+    "2 Fast 2 Furious (2003)",
+    "Fast and the Furious Tokyo Drift (2006)",
+    "Fast and Furious (2009)",
+    "Fast Five (2011)",
+    "Fast and Furious 6 (2013)"
+  ],
+  "G.I. Joe": [
+    "G.I. Joe The Rise Of Cobra (2009)",
+    "G.I. Joe  Retaliation (2013)"
+  ],
+  "Ghost Rider": [
+    "Ghost Rider (2007)",
+    "Ghost Rider - Spirit of Vengeance (2011)"
+  ],
+  "Grown Ups": [
+    "Grown Ups (2010)",
+    "Grown Ups 2 (2013)"
+  ],
+  "Harold and Kumar": [
+    "Harold and Kumar go to White Castle (2004)",
+    "Harold and Kumar Escape from Guantanamo Bay (2008)",
+    "A Very Harold and Kumar Christmas (2011)"
+  ],
+  "Harry Potter": [
+    "Harry Potter and the Sorcerers Stone (2001)",
+    "Harry Potter and the Chamber of Secrets (2002)",
+    "Harry Potter and the Prisoner of Azkaban (2004)",
+    "Harry Potter and the Goblet of Fire (2005)",
+    "Harry Potter and the Order of the Phoenix (2007)",
+    "Harry Potter and the Half Blood Prince (2009)",
+    "Harry Potter and the Deathly Hallows Part 1 (2010)",
+    "Harry Potter and the Deathly Hallows Part 2 (2011)"
+  ],
+  "Home Alone": [
+    "Home Alone (1990)",
+    "Home Alone 2 (1992)",
+    "Home Alone 3 (1997)",
+    "Home Alone 4  (2002)",
+    "Home Alone 5 (2012)"
+  ],
+  "Hot Shots": [
+    "Hot Shots (1991)",
+    "Hot Shots Part Deux (1993)"
+  ],
+  "How to Train Your Dragon": [
+    "How to Train Your Dragon (2010)",
+    "How to Train Your Dragon 2 (2014)"
+  ],
+  "Ice Age": [
+    "Ice Age (2002)",
+    "Ice Age The Meltdown (2006)",
+    "Ice Age Dawn Of The Dinosaurs (2009)",
+    "Ice Age 4 Continental Drift (2012)"
+  ],
+  "Indiana Jones": [
+    "Indiana Jones and the Raiders of the Lost Ark (1981)",
+    "Indiana Jones and the Temple of Doom (1984)",
+    "Indiana Jones and the Last Crusade (1989)",
+    "Indiana Jones and the Kingdom of the Crystal Skull (2008)"
+  ],
+  "Insidious": [
+    "Insidious Chapter 1 (2010)",
+    "Insidious Chapter 2 (2013)"
+  ],
+  "Iron Man": [
+    "Iron Man (2008)",
+    "Iron Man 2 (2010)",
+    "Iron Man 3 (2013)"
+  ],
+  "Jackie Chan": [
+    "Snake in the Eagle's Eye (1984)",
+    "Drunken Master (1985)",
+    "Police Story (1985)",
+    "Armour of God I (1987)",
+    "Drunken Master 2 (1987)",
+    "Dragons Forever (1988)",
+    "Thunderbolt (1989)",
+    "City Hunter (1991)",
+    "Armour of God II (Operation Condor) (1991)",
+    "Police Story 3 Supercop (1992)",
+    "Crime Story (1994)",
+    "First Strike (1994)",
+    "Accidental Spy (1997)",
+    "Mr Nice Guy (2000)",
+    "Wheels On Meals (2001)",
+    "Shanghai Knights (2003)",
+    "The Medallion (2003)",
+    "The Tuxedo (2003)",
+    "Who Am I (2003)",
+    "New Police Story (2004)",
+    "Rumble in the Bronx (2005)",
+    "The Myth (2005)",
+    "Rob-B-Hood (2006)",
+    "Kung Fu Master (2009)",
+    "Armour of God III (Chinese Zodiac) (2012)"
+  ],
+  "Johnny English": [
+    "Johnny English (2003)",
+    "Johnny English Reborn (2011)"
+  ],
+  "Jump Street": [
+    "21 Jump Street (2012)",
+    "22 Jump Street (2014)"
+  ],
+  "Jurassic Park": [
+    "Jurassic Park (1993)",
+    "Jurassic Park II The Lost World (1997)",
+    "Jurassic Park III (2001)"
+  ],
+  "Kick Ass": [
+    "Kick Ass (2010)",
+    "Kick Ass 2 (2013)"
+  ],
+  "Kill Bill": [
+    "Kill Bill Vol 1 (2003)",
+    "Kill Bill Vol 2 (2004)"
+  ],
+  "Kung Fu Panda": [
+    "Kung Fu Panda (2008)",
+    "Kung Fu Panda 2 (2011)"
+  ],
+  "Lara Croft - Tomb Raider": [
+    "Lara Croft - Tomb Raider (2001)",
+    "Lara Croft - Tomb Raider - The Cradle of Life (2003)"
+  ],
+  "Meet the Parents/Fockers": [
+    "Meet The Parents (2000)",
+    "Meet The Fockers (2006)",
+    "Little Fockers (2010)"
+  ],
+  "Men In Black": [
+    "Men In Black (1997)",
+    "Men In Black II (2002)",
+    "Men in Black III (2012)"
+  ],
+  "Mission Impossible": [
+    "Mission Impossible I (1996)",
+    "Mission Impossible II (2000)",
+    "Mission Impossible III (2006)",
+    "Mission Impossible IV Ghost Protocol (2011)"
+  ],
+  "Monsters Inc.": [
+    "Monsters Inc (2001)",
+    "Monsters University (2013)"
+  ],
+  "Mr. Bean": [
+    "Mr Bean (1997)",
+    "Mr Bean's Holiday (2007)"
+  ],
+  "National Treasure": [
+    "National Treasure (2004)",
+    "National Treasure Book of Secrets (2007)"
+  ],
+  "Ocean's": [
+    "Ocean's Eleven (2001)",
+    "Ocean's Twelve (2004)",
+    "Ocean's Thirteen (2007)"
+  ],
+  "Pirates of the Carribbean": [
+    "Pirates of the Caribbean - Curse of the Black Pearl (2003)",
+    "Pirates of the Caribbean - Dead Man's Chest (2006)",
+    "Pirates of the Caribbean - At Worlds End (2007)",
+    "Pirates of the Caribbean - On Stranger Tides (2011)"
+  ],
+  "Red": [
+    "Red (2010)",
+    "Red 2 (2013)"
+  ],
+  "Resident Evil": [
+    "Resident Evil (2002)",
+    "Resident Evil - Apocalypse (2004)",
+    "Resident Evil - Extinction (2007)",
+    "Resident Evil - Afterlife (2010)",
+    "Resident Evil - Retribution (2012)"
+  ],
+  "Rio": [
+    "Rio (2011)",
+    "Rio 2 (2014)"
+  ],
+  "Rush Hour": [
+    "Rush Hour (1998)",
+    "Rush Hour 2 (2002)",
+    "Rush Hour 3 (2007)"
+  ],
+  "Saw": [
+    "Saw I (2004)",
+    "Saw II (2005)",
+    "Saw III (2006)",
+    "Saw IV (2007)",
+    "Saw V (2008)",
+    "Saw VI (2009)",
+    "Saw 3D (2010)"
+  ],
+  "Scary Movie": [
+    "Scary Movie (2000)",
+    "Scary Movie 2 (2001)",
+    "Scary Movie 3 (2003)",
+    "Scary Movie 4 (2006)",
+    "Scary MoVie (2013)"
+  ],
+  "Scream": [
+    "Scream (1996)",
+    "Scream 2 (1997)",
+    "Scream 3 (2000)",
+    "Scream 4 (2011)"
+  ],
+  "Sherlock Holmes": [
+    "Sherlock Holmes (2009)",
+    "Sherlock Holmes - A Game Of Shadows (2011)"
+  ],
+  "Speed": [
+    "Speed (1994)",
+    "Speed 2 - Cruise Control (1997)"
+  ],
+  "Spider Man": [
+    "Spider Man (2002)",
+    "Spider Man 2 (2004)",
+    "Spider Man 3 (2007)",
+    "The Amazing Spiderman (2012)",
+    "The Amazing Spiderman 2 (2014)"
+  ],
+  "Spy Kids": [
+    "Spy Kids (2001)",
+    "Spy Kids 2 Island of Lost Dreams (2002)",
+    "Spy Kids 3 Game Over (2003)",
+    "Spy Kids 4 All the Time in the World (2011)"
+  ],
+  "Star Trek - Original Series": [
+    "Star Trek I The Motion Picture (1979)",
+    "Star Trek II The Wrath of Khan (1982)",
+    "Star Trek III The Search For Spock (1984)",
+    "Star Trek IV The Voyage Home (1986)",
+    "Star Trek V The Final Frontier (1989)",
+    "Star Trek VI The Undiscovered Country (1991)"
+  ],
+  "Star Trek - Next Generation": [
+    "Star Trek I  Generations (1994)",
+    "Star Trek II First Contact (1996)",
+    "Star Trek III Insurrection (1998)",
+    "Star Trek IV Nemesis (2002)"
+  ],
+  "Star Trek - Reboot": [
+    "Star Trek (2009)",
+    "Star Trek Into Darkness (2013)"
+  ],
+  "Star Wars - Original Trilogy": [
+    "Star Wars Episode IV A New Hope (1977)",
+    "Star Wars Episode V The Empire Strikes Back (1980)",
+    "Star Wars Episode VI Return Of The Jedi (1983)"
+  ],
+  "Star Wars - Prequel Trilogy": [
+    "Star Wars Episode I The Phantom Menace (1999)",
+    "Star Wars Episode II Attack Of the Clones (2002)",
+    "Star Wars Episode III Revenge Of The Sith (2005)"
+  ],
+  "Taken": [
+    "Taken (2008)",
+    "Taken 2 (2012)"
+  ],
+  "Terminator": [
+    "Terminator (1984)",
+    "Terminator 2 Judgement Day (1991)",
+    "Terminator 3 Rise Of the Machines (2003)",
+    "Terminator 4 Salvation (2009)"
+  ],
+  "The Bourne Saga": [
+    "The Bourne Identity (2002)",
+    "The Bourne Supremacy (2004)",
+    "The Bourne Ultimatum (2007)",
+    "The Bourne Legacy (2012)"
+  ],
+  "The Chronicles of Narnia": [
+    "The Chronicles of Narnia - The Lion, The Witch, and The Wardrobe (2005)",
+    "The Chronicles of Narnia - Prince Caspian (2008)",
+    "The Chronicles of Narnia - Voyange of the Dawn Tredder (2010)"
+  ],
+  "The Dark Knight Saga": [
+    "Batman Begins (2005)",
+    "The Dark Knight (2008)",
+    "The Dark Knight Rises (2012)"
+  ],
+  "The Expandables": [
+    "The Expendables (2010)",
+    "The Expendables 2 (2012)",
+    "The Expendables 3 (2014)"
+  ],
+  "The Godfather": [
+    "The Godfather (1972)",
+    "The Godfather Part II (1974)",
+    "The Godfather Part III (1990)"
+  ],
+  "The Grudge": [
+    "The Grudge (2004)",
+    "The Grudge 2 (2006)",
+    "The Grudge 3 (2009)"
+  ],
+  "The Hangover": [
+    "The Hangover (2009)",
+    "The Hangover Part II (2011)",
+    "The Hangover Part III (2013)"
+  ],
+  "The Hobbit": [
+    "The Hobbit An Unexpected Journey (2012)",
+    "The Hobbit The Desolation of Smaug (2013)"
+  ],
+  "The Hunger Games": [
+    "The Hunger Games (2012)",
+    "The Hunger Games - Catching Fire (2013)",
+    "The Hunger Games - Mockinjay Part 1 (2014)"
+  ],
+  "The Lion King": [
+    "The Lion King (1994)",
+    "The Lion King - Simba's Pride (1998)",
+    "The Lion King - Hakuna Matata (2004)"
+  ],
+  "The Lord of the Rings": [
+    "The Lord of the Rings The Fellowship of the Ring (2001)",
+    "The Lord of the Rings The Return of the King (2003)",
+    "The Lord of the Rings The Two Towers (2002)"
+  ],
+  "The Martix": [
+    "The Matrix (1999)",
+    "The Matrix Reloaded (2003)",
+    "The Matrix Revolutions (2003)"
+  ],
+  "The Mummy": [
+    "The Mummy (1999)",
+    "The Mummy Returns (2001)",
+    "The Mummy Tomb of the Dragon Emperor (2008)"
+  ],
+  "The Smurfs": [
+    "The Smurfs (2011)",
+    "The Smurfs 2 (2013)"
+  ],
+  "Thor": [
+    "Thor (2011)",
+    "Thor The Dark World (2013)"
+  ],
+  "Titans": [
+    "Clash of the Titans (2010)",
+    "Wrath of the Titans (2012)"
+  ],
+  "Tom and Jerry": [
+    "Tom & Jerry Trick & Treats (1999)",
+    "Tom and Jerry  the Wizard of Oz (2001)",
+    "Tom and Jerry in Shiver Me Whiskers (2006)",
+    "Tom and Jerry In The Dog House (2003)",
+    "Tom and Jerry Meet Sherlock Holmes (2005)"
+  ],
+  "Toy Story": [
+    "Toy Story (1995)",
+    "Toy Story 2 (1999)",
+    "Toy Story 3 (2010)"
+  ],
+  "Transformers": [
+    "Transformers (2007)",
+    "Transformers 2 - Revenge of the Fallen (2009)",
+    "Transformers 3 - Dark of the Moon (2011)",
+    "Transformers 4 - Age of Extinction (2014)"
+  ],
+  "Tron": [
+    "Tron (1982)",
+    "Tron Legacy (2010)"
+  ],
+  "William Shakespeare": [
+    "As You Like It (1978)",
+    "Macbeth (1983)",
+    "Much Ado About Nothing (1984)"
+  ],
+  "X-Men": [
+    "X-Men (2000)",
+    "X-Men 2 (2003)",
+    "X-Men The Last Stand (2006)",
+    "X-Men Origins Wolverine (2009)",
+    "X-Men First Class (2011)",
+    "The Wolverine (2013)",
+    "X-Men Days of Future Past (2014)"
+  ],
+  "A": [
+    "A Beautiful Mind (2001)",
+    "A Few Good Men (1992)",
+    "A Nightmare on Elm Street (1984)",
+    "A Walk Among the Tombstones (2014)",
+    "About Time (2013)",
+    "Adaptation (2002)",
+    "After Earth (2013)",
+    "Aladdin (1992)",
+    "Alien (1979)",
+    "Amelie (2001)",
+    "American Beauty (1999)",
+    "American Hustle (2013)",
+    "An Adventure in Space and Time (2013)",
+    "Annabelle (2014)",
+    "Another Earth (2011)",
+    "Argo Extended Cut (2012)",
+    "Arthur Newman (2012)",
+    "Artificial Intelligence (2001)",
+    "Avatar (2009)"
+  ],
+  "B": [
+    "Battleship (2012)",
+    "Black Swan (2010)",
+    "Blade Runner (1997)",
+    "Blood Diamond (2006)",
+    "Blue Streak (1999)",
+    "Bolt (2008)",
+    "Boyhood (2014)",
+    "Brave (2012)",
+    "Braveheart (1995)",
+    "Bruce Almighty (2003)"
+  ],
+  "C": [
+    "Captain Phillips (2013)",
+    "Carrie (2013)",
+    "Casino (1995)",
+    "Catch Me If You Can (2002)",
+    "Catwoman (2004)",
+    "Changeling (2008)",
+    "Charlie and the Chocolate Factory (2005)",
+    "Chicken Little (2009)",
+    "Chicken Run (2000)",
+    "Children of Men (2006)",
+    "Close Encounters of the Third Kind (1977)",
+    "Closer (2004)",
+    "Cloud Atlas (2012)",
+    "Cold Comes the Night (2013)",
+    "Cowboys & Aliens (2011)",
+    "Cypher (2002)"
+  ],
+  "D": [
+    "Dallas Buyers Club (2013)",
+    "Dark City (1998)",
+    "Dark Shadows (2012)",
+    "Dawn of the Planet of the Apes (2014)",
+    "Dead Poets Society (1989)",
+    "Delivery Man (2013)",
+    "Detachment (2011)",
+    "Disconnect (2012)",
+    "Disney Nature's Earth (2009)",
+    "District 9 (2009)",
+    "Divergent (2014)",
+    "Django Unchained (2012)",
+    "Don Jon (2013)",
+    "Dragon Ball Evolution (2009)",
+    "Drive (2011)",
+    "Driving Miss Daisy (1989)",
+    "Due Date (2010)",
+    "Dumb and Dumber (1994)"
+  ],
+  "E": [
+    "Edward Scissorhands (1990)",
+    "Elysium (2013)",
+    "Enter The Dragon (1973)",
+    "Equilibrium (2002)",
+    "Escape Plan (2013)",
+    "Euro Trip (2004)",
+    "Evil Dead II (1987)",
+    "Exam (2009)",
+    "Executive Decision (1996)"
+  ],
+  "F": [
+    "Face Off (1997)",
+    "Fight Club (1999)",
+    "Finding Nemo (2003)",
+    "Frozen (2013)",
+    "Fun with Dick and Jane (2005)",
+    "Funny People (2009)",
+    "Fury (2014)"
+  ],
+  "G": [
+    "Gandhi (1982)",
+    "Gangs of New York (2002)",
+    "Garden State (2004)",
+    "Gladiator (2000)",
+    "Godzilla (2014)",
+    "Gone Girl (2014)",
+    "Gone In 60 Seconds (2000)",
+    "Gravity (2013)",
+    "Guardians of the Galaxy (2014)"
+  ],
+  "H": [
+    "Hachiko - A Dog's Tale (2009)",
+    "Hancock (2008)",
+    "Heat (1995)",
+    "Her (2013)",
+    "Hop (2011)",
+    "Horrible Bosses (2012)",
+    "Hot Fuzz (2007)",
+    "Hotel Rawanda (2008)",
+    "Hotel Transylvania (2012)",
+    "Hugo (2011)"
+  ],
+  "I": [
+    "I Love You Man (2009)",
+    "I Robot (2004)",
+    "Identity Thief (2013)",
+    "If I Stay (2014)",
+    "iGenius - How Steve Jobs Changed the World (2011)",
+    "In Time (2011)",
+    "Inception (2010)",
+    "Independence Day (1996)",
+    "Insomnia (2002)",
+    "Interstellar (2014)",
+    "Into The Wild (2007)",
+    "IP Man (2008)",
+    "Its a Mad Mad World (1963)",
+    "Its Kind of a Funny Story (2010)"
+  ],
+  "J": [
+    "Jaws (1975)",
+    "jOBS (2013)",
+    "Journey to the Center of the Earth (2008)",
+    "Jumanji (1995)",
+    "Justice League The New Frontier (2008)"
+  ],
+  "K": [
+    "Kiss Kiss Bang Bang (2005)",
+    "Knight and Day (2010)",
+    "Knocked Up (2007)",
+    "Knowing (2009)",
+    "Kung Fu Hustle (2004)"
+  ],
+  "L": [
+    "L.A Confidential (1997)",
+    "Last Vegas (2013)",
+    "Legend of the Guardians (2010)",
+    "Leon The Professional Extended (1994)",
+    "Let Me In (2011)",
+    "Let's Be Cops (2014)",
+    "Liar Liar (1997)",
+    "Life In A Day (2011)",
+    "Life of Pi (2012)",
+    "Lincoln (2012)",
+    "Lucy (2014)"
+  ],
+  "M": [
+    "Maleficent (2014)",
+    "Man of Steel (2013)",
+    "Man On The Moon (1999)",
+    "Mars Needs Moms (2011)",
+    "Matilda (1996)",
+    "Megamind (2010)",
+    "Memento (2000)",
+    "Million Dollar Baby (2004)",
+    "Minority Report (2002)",
+    "Monster House (2006)",
+    "Mr. Popper's Penguins (2011)",
+    "Much Ado About Nothing (2012)"
+  ],
+  "N": [
+    "Nanny McPhee and the Big Bang (2010)",
+    "Nebraska (2013)",
+    "Need for Speed (2014)",
+    "Noah (2014)",
+    "Non Stop (2014)",
+    "Now You See Me (2013)"
+  ],
+  "O": [
+    "O Brother, Where Art Thou (2000)",
+    "Oblivion (2013)",
+    "Oculus (2013)",
+    "Oz the Great and Powerful (2013)"
+  ],
+  "P": [
+    "Pacific Rim (2013)",
+    "Paul Blart The Mall Cop (2009)",
+    "Pearl Harbor (2001)",
+    "Predestination (2014)",
+    "Pi (1998)",
+    "Pirates of the Silicon Valley (1999)",
+    "Pompeii (2014)",
+    "Psycho (1960)"
+  ],
+  "R": [
+    "R.I.P.D. (2013)",
+    "Rain Man (1988)",
+    "Ratatouille (2007)",
+    "Requiem for a Dream (2000)",
+    "Reservoir Dogs (1992)",
+    "Riddick (2013)",
+    "RoboCop (2014)",
+    "Rope (1948)",
+    "Runner Runner (2013)",
+    "Rush (2013)"
+  ],
+  "S": [
+    "Saving Private Ryan (1998)",
+    "Schindlers List (1993)",
+    "Se7en (1995)",
+    "Serenity (2005)",
+    "Seven Psychopaths (2012)",
+    "Shaun Of The Dead (2004)",
+    "Shutter Island (2010)",
+    "Silver Linings Playbook (2012)",
+    "Slumdog Millionaire (2008)",
+    "Snatch (2000)",
+    "Source Code (2011)",
+    "Spirited Away (2001)",
+    "Stand by Me (1986)",
+    "Stolen (2012)",
+    "Super 8 (2011)"
+  ],
+  "T": [
+    "Ted (2012)",
+    "The 6th Day (2000)",
+    "The 40 Year Old Virgin (2005)",
+    "The A Team (2010)",
+    "The Art of the Steal (2013)",
+    "The Artist (2011)",
+    "The Avengers (2012)",
+    "The Book of Life (2014)",
+    "The Boy in the Striped Pyjamas (2008)",
+    "The Cabin in the Woods (2011)",
+    "The Conjuring (2013)",
+    "The Croods (2013)",
+    "The Da Vinci Code (2006)",
+    "The Darkest Hour (2011)",
+    "The Day The Earth Stood Still (2008)",
+    "The Departed (2006)",
+    "The Dictator (2012)",
+    "The Drop (2014)",
+    "The Evil Dead (1981)",
+    "The Exorcist (1973)",
+    "The Fifth Estate (2013)",
+    "The Girl Next Door (2004)",
+    "The Girl with the Dragon Tattoo (2011)",
+    "The Golden Compass (2007)",
+    "The Great Gatsby (2013)",
+    "The Grey (2011)",
+    "The Heat (2013)",
+    "The Hungover Games (2014)",
+	"The Imitation Game (2014)",
+    "The Incredible Hulk (2008)",
+    "The Incredibles (2004)",
+    "The Interview (2014)",
+	"The Judge (2014)",	
+    "The Karate Kid (2010)",
+    "The King's Speech (2010)",
+    "The Last Lions (2011)",
+    "The Lego Movie (2014)",
+    "The Lone Ranger (2013)",
+    "The Lookout (2007)",
+    "The Machinist (2004)",
+    "The Man From the Earth (2007)",
+    "The Mask (1994)",
+    "The Master (2012)",
+    "The Maze Runner (2014)",
+    "The Next Three Days (2010)",
+    "The Nutty Professor (1996)",
+    "The Other Guys (2010)",
+    "The Pirate Bay Away From Keyboard (2013)",
+    "The Prestige (2006)",
+    "The Princess Bride (1987)",
+    "The Proposal (2009)",
+    "The Pursuit of Happyness (2006)",
+    "The Seasoning House (2012)",
+    "The Secret Life of Walter Mitty (2013)",
+    "The Shawshank Redemption (1994)",
+    "The Shining (1980)",
+    "The Silence Of The Lambs (1991)",
+    "The Sixth Sense (1999)",
+    "The Social Network (2010)",
+    "The Sorcerer's Apprentice (2010)",
+    "The Thing (1982)",
+    "The Three Musketeers (2011)",
+    "The Time Machine (2002)",
+    "The Tree of Life (2011)",
+    "The Truman Show (1998)",
+    "The Usual Suspects (1995)",
+    "The Wild (2006)",
+    "The Wolf of Wall Street (2013)",
+    "There's Something About Mary (1998)",
+    "This Is 40 (2012)",
+    "Titanic (1997)",
+    "Top Gun (1986)",
+    "Tower Heist (2011)",
+    "Transcendence (2014)",
+    "Turbo (2013)"
+  ],
+  "U": [
+    "Unknown (2011)",
+    "Unstoppable (2010)",
+    "Up (2009)"
+  ],
+  "V": [
+    "V for Vendetta (2006)",
+    "Vertigo (1958)"
+  ],
+  "W": [
+    "Wall-E (2008)",
+    "War Horse (2011)",
+    "Warm Bodies (2013)",
+    "Wedding Crashers (2005)",
+    "Weird Science (1985)",
+    "Whats Eating Gilbert Grape (1993)",
+	"What We Do in the Shadows (2014)",	
+    "White House Down (2013)",
+	"Whiplash (2014)",
+    "Winnie the Pooh (2011)",
+    "Winter's Bone (2010)",
+    "Winter's Tale (2014)",
+    "World War 2 in colour (1999)",
+    "World War Z (2013)"
+  ],
+  "Y": [
+    "Yes Man (2008)"
+  ],
+  "Z": [
+    "Zero Dark Thirty (2012)",
+    "Zodiac (2007)",
+    "Zombieland (2009)"
+  ],
+  "#": [
+    "3 Days to Kill (2014)",
+    "3 Idiots (2010)",
+    "12 Monkeys (1995)",
+    "12 Years a Slave (2013)",
+    "47 Ronin (2013)",
+    "50-50 (2011)",
+    "127 Hours (2010)",
+    "500 Days Of Summer (2009)",
+    "2001 A Space Odyssey (1968)"
+  ]
+}

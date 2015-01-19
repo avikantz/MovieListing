@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<document type="com.apple.InterfaceBuilder3.CocoaTouch.XIB" version="3.0" toolsVersion="6254" systemVersion="14B25" targetRuntime="iOS.CocoaTouch" propertyAccessControl="none" useAutolayout="YES" useTraitCollections="YES">
+    <dependencies>
+        <deployment identifier="iOS"/>
+        <plugIn identifier="com.apple.InterfaceBuilder.IBCocoaTouchPlugin" version="6247"/>
+    </dependencies>
+    <objects>
+        <placeholder placeholderIdentifier="IBFilesOwner" id="-1" userLabel="File's Owner"/>
+        <placeholder placeholderIdentifier="IBFirstResponder" id="-2" customClass="UIResponder"/>
+        <view contentMode="scaleToFill" id="iN0-l3-epB" customClass="topView">
+            <rect key="frame" x="0.0" y="0.0" width="600" height="600"/>
+            <autoresizingMask key="autoresizingMask" widthSizable="YES" heightSizable="YES"/>
+            <subviews>
+                <imageView opaque="NO" clipsSubviews="YES" multipleTouchEnabled="YES" alpha="0.59999999999999964" contentMode="scaleToFill" image="MovieIcon.png" translatesAutoresizingMaskIntoConstraints="NO" id="D1H-lT-Mbe">
+                    <rect key="frame" x="220" y="432" width="160" height="160"/>
+                    <constraints>
+                        <constraint firstAttribute="height" constant="160" id="PPE-MP-WDP"/>
+                        <constraint firstAttribute="width" constant="160" id="u9j-Lg-9wF"/>
+                    </constraints>
+                </imageView>
+                <label opaque="NO" userInteractionEnabled="NO" alpha="0.74999999999999978" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="Label" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Xac-Mg-qQH">
+                    <rect key="frame" x="281" y="501" width="39" height="21"/>
+                    <fontDescription key="fontDescription" name="AppleSDGothicNeo-Regular" family="Apple SD Gothic Neo" pointSize="17"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" alpha="0.75" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="@avikantz" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="aU9-Vn-9cV">
+                    <rect key="frame" x="263" y="403" width="75" height="21"/>
+                    <fontDescription key="fontDescription" name="AppleSDGothicNeo-Regular" family="Apple SD Gothic Neo" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" alpha="0.75" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="You just couldn't resist scrolling, could you?" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Rb3-RU-bzJ">
+                    <rect key="frame" x="144" y="146" width="312" height="21"/>
+                    <fontDescription key="fontDescription" name="AppleSDGothicNeo-Regular" family="Apple SD Gothic Neo" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" alpha="0.75" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="........................................" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="9vM-ub-TCM">
+                    <rect key="frame" x="224" y="175" width="154" height="21"/>
+                    <fontDescription key="fontDescription" name="AppleSDGothicNeo-Regular" family="Apple SD Gothic Neo" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" alpha="0.75" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="........................" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="xMc-7B-MA1">
+                    <rect key="frame" x="254" y="204" width="93" height="21"/>
+                    <fontDescription key="fontDescription" name="AppleSDGothicNeo-Regular" family="Apple SD Gothic Neo" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" alpha="0.75" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="................" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="a6T-OG-mkH">
+                    <rect key="frame" x="270" y="233" width="62" height="21"/>
+                    <fontDescription key="fontDescription" name="AppleSDGothicNeo-Regular" family="Apple SD Gothic Neo" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" alpha="0.75" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="........" textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="Umk-oT-vAP">
+                    <rect key="frame" x="285" y="262" width="31" height="21"/>
+                    <fontDescription key="fontDescription" name="AppleSDGothicNeo-Regular" family="Apple SD Gothic Neo" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" alpha="0.75" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="...." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="jXg-S0-h50">
+                    <rect key="frame" x="292" y="289" width="16" height="21"/>
+                    <fontDescription key="fontDescription" name="AppleSDGothicNeo-Regular" family="Apple SD Gothic Neo" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" alpha="0.75" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text=".." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="TcX-Du-NVc">
+                    <rect key="frame" x="296" y="318" width="8" height="21"/>
+                    <fontDescription key="fontDescription" name="AppleSDGothicNeo-Regular" family="Apple SD Gothic Neo" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+                <label opaque="NO" userInteractionEnabled="NO" alpha="0.75" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="." textAlignment="center" lineBreakMode="tailTruncation" numberOfLines="2" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="qvA-kq-lyI">
+                    <rect key="frame" x="298" y="347" width="4" height="21"/>
+                    <fontDescription key="fontDescription" name="AppleSDGothicNeo-Regular" family="Apple SD Gothic Neo" pointSize="17"/>
+                    <color key="textColor" cocoaTouchSystemColor="groupTableViewBackgroundColor"/>
+                    <nil key="highlightedColor"/>
+                </label>
+            </subviews>
+            <color key="backgroundColor" cocoaTouchSystemColor="darkTextColor"/>
+            <constraints>
+                <constraint firstItem="a6T-OG-mkH" firstAttribute="centerX" secondItem="xMc-7B-MA1" secondAttribute="centerX" constant="0.5" id="0QT-4u-pGl"/>
+                <constraint firstAttribute="centerX" secondItem="qvA-kq-lyI" secondAttribute="centerX" id="360-Vf-k8i"/>
+                <constraint firstItem="9vM-ub-TCM" firstAttribute="centerX" secondItem="xMc-7B-MA1" secondAttribute="centerX" id="63c-e3-qX3"/>
+                <constraint firstItem="D1H-lT-Mbe" firstAttribute="top" secondItem="aU9-Vn-9cV" secondAttribute="bottom" constant="8" id="6Sj-ct-Gcb"/>
+                <constraint firstItem="a6T-OG-mkH" firstAttribute="centerX" secondItem="xMc-7B-MA1" secondAttribute="centerX" id="7Tt-ml-fIi"/>
+                <constraint firstItem="9vM-ub-TCM" firstAttribute="top" secondItem="Rb3-RU-bzJ" secondAttribute="bottom" constant="8" id="9cj-hF-XrB"/>
+                <constraint firstItem="9vM-ub-TCM" firstAttribute="top" secondItem="Rb3-RU-bzJ" secondAttribute="bottom" constant="8" id="CDl-WL-egf"/>
+                <constraint firstItem="aU9-Vn-9cV" firstAttribute="centerX" secondItem="D1H-lT-Mbe" secondAttribute="centerX" constant="0.5" id="GoX-90-WHT"/>
+                <constraint firstAttribute="centerX" secondItem="xMc-7B-MA1" secondAttribute="centerX" id="Kwp-QA-Fj1"/>
+                <constraint firstItem="Umk-oT-vAP" firstAttribute="centerX" secondItem="jXg-S0-h50" secondAttribute="centerX" id="LUu-zl-iSf"/>
+                <constraint firstAttribute="bottom" secondItem="D1H-lT-Mbe" secondAttribute="bottom" constant="8" id="NzU-wU-A0w"/>
+                <constraint firstItem="qvA-kq-lyI" firstAttribute="centerX" secondItem="TcX-Du-NVc" secondAttribute="centerX" id="PN6-98-MBc"/>
+                <constraint firstItem="Xac-Mg-qQH" firstAttribute="centerX" secondItem="D1H-lT-Mbe" secondAttribute="centerX" constant="0.5" id="SfJ-KR-xss"/>
+                <constraint firstAttribute="centerX" secondItem="jXg-S0-h50" secondAttribute="centerX" id="T9i-HC-pSc"/>
+                <constraint firstAttribute="centerX" secondItem="Umk-oT-vAP" secondAttribute="centerX" id="Vtw-oa-RY7"/>
+                <constraint firstItem="9vM-ub-TCM" firstAttribute="centerX" secondItem="Rb3-RU-bzJ" secondAttribute="centerX" id="WgT-sp-CX5"/>
+                <constraint firstItem="TcX-Du-NVc" firstAttribute="top" secondItem="jXg-S0-h50" secondAttribute="bottom" constant="8" symbolic="YES" id="XGB-gb-4gJ"/>
+                <constraint firstItem="9vM-ub-TCM" firstAttribute="centerX" secondItem="a6T-OG-mkH" secondAttribute="centerX" id="Yhc-j0-p20"/>
+                <constraint firstItem="Xac-Mg-qQH" firstAttribute="centerY" secondItem="D1H-lT-Mbe" secondAttribute="centerY" constant="-0.5" id="cbe-8K-qqo"/>
+                <constraint firstItem="a6T-OG-mkH" firstAttribute="centerX" secondItem="Umk-oT-vAP" secondAttribute="centerX" constant="0.5" id="czV-43-luG"/>
+                <constraint firstItem="xMc-7B-MA1" firstAttribute="top" secondItem="9vM-ub-TCM" secondAttribute="bottom" constant="8" id="dFy-Zu-QEs"/>
+                <constraint firstItem="Umk-oT-vAP" firstAttribute="top" secondItem="a6T-OG-mkH" secondAttribute="bottom" constant="8" id="dGA-bQ-rpd"/>
+                <constraint firstItem="9vM-ub-TCM" firstAttribute="leading" secondItem="iN0-l3-epB" secondAttribute="leading" constant="224" id="dpb-QO-0aY"/>
+                <constraint firstItem="Rb3-RU-bzJ" firstAttribute="centerX" secondItem="xMc-7B-MA1" secondAttribute="centerX" id="eWq-tc-tPH"/>
+                <constraint firstItem="a6T-OG-mkH" firstAttribute="top" secondItem="xMc-7B-MA1" secondAttribute="bottom" constant="8" id="fVv-Ir-91M"/>
+                <constraint firstItem="Umk-oT-vAP" firstAttribute="centerX" secondItem="a6T-OG-mkH" secondAttribute="centerX" id="jkr-Ty-oHo"/>
+                <constraint firstItem="qvA-kq-lyI" firstAttribute="top" secondItem="TcX-Du-NVc" secondAttribute="bottom" constant="8" id="lbG-rP-FEd"/>
+                <constraint firstItem="Rb3-RU-bzJ" firstAttribute="top" secondItem="iN0-l3-epB" secondAttribute="top" constant="146" id="pa6-DJ-uQN"/>
+                <constraint firstItem="jXg-S0-h50" firstAttribute="top" secondItem="Umk-oT-vAP" secondAttribute="bottom" constant="6" id="sDj-Jt-J0W"/>
+                <constraint firstAttribute="centerX" secondItem="Rb3-RU-bzJ" secondAttribute="centerX" id="sON-93-SEh"/>
+                <constraint firstItem="9vM-ub-TCM" firstAttribute="centerX" secondItem="Rb3-RU-bzJ" secondAttribute="centerX" constant="1" id="sSi-vh-2do"/>
+                <constraint firstItem="Umk-oT-vAP" firstAttribute="top" secondItem="a6T-OG-mkH" secondAttribute="bottom" constant="8" id="t3N-MN-xHA"/>
+                <constraint firstItem="9vM-ub-TCM" firstAttribute="centerX" secondItem="xMc-7B-MA1" secondAttribute="centerX" constant="0.5" id="vO5-BD-tRF"/>
+                <constraint firstAttribute="centerX" secondItem="TcX-Du-NVc" secondAttribute="centerX" id="vY4-PN-VPk"/>
+                <constraint firstAttribute="centerX" secondItem="a6T-OG-mkH" secondAttribute="centerX" id="vjt-GO-KcX"/>
+                <constraint firstAttribute="centerX" secondItem="D1H-lT-Mbe" secondAttribute="centerX" id="x8d-to-iXi"/>
+                <constraint firstAttribute="centerX" secondItem="9vM-ub-TCM" secondAttribute="centerX" id="y8i-4b-TYw"/>
+                <constraint firstItem="a6T-OG-mkH" firstAttribute="top" secondItem="xMc-7B-MA1" secondAttribute="bottom" constant="8" id="yac-HY-EAm"/>
+                <constraint firstItem="xMc-7B-MA1" firstAttribute="top" secondItem="9vM-ub-TCM" secondAttribute="bottom" constant="8" id="zbA-2d-RsB"/>
+            </constraints>
+            <variation key="default">
+                <mask key="constraints">
+                    <exclude reference="eWq-tc-tPH"/>
+                    <exclude reference="sON-93-SEh"/>
+                    <exclude reference="63c-e3-qX3"/>
+                    <exclude reference="CDl-WL-egf"/>
+                    <exclude reference="WgT-sp-CX5"/>
+                    <exclude reference="Yhc-j0-p20"/>
+                    <exclude reference="dpb-QO-0aY"/>
+                    <exclude reference="y8i-4b-TYw"/>
+                    <exclude reference="Kwp-QA-Fj1"/>
+                    <exclude reference="dFy-Zu-QEs"/>
+                    <exclude reference="7Tt-ml-fIi"/>
+                    <exclude reference="fVv-Ir-91M"/>
+                    <exclude reference="vjt-GO-KcX"/>
+                    <exclude reference="Vtw-oa-RY7"/>
+                    <exclude reference="dGA-bQ-rpd"/>
+                    <exclude reference="jkr-Ty-oHo"/>
+                </mask>
+            </variation>
+            <connections>
+                <outlet property="MovieBackgroundImage" destination="D1H-lT-Mbe" id="1TW-Kr-ctc"/>
+                <outlet property="MovieLabel" destination="Xac-Mg-qQH" id="XDA-HE-27q"/>
+                <outlet property="avikantzLabel" destination="aU9-Vn-9cV" id="via-Fu-SDf"/>
+            </connections>
+        </view>
+    </objects>
+    <resources>
+        <image name="MovieIcon.png" width="266" height="266"/>
+    </resources>
+</document>

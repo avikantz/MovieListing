@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  TableCell.h
 //  MovieListing
 //
 //  Created by Avikant Saini on 9/17/14.
@@ -8,6 +8,8 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
+@interface TableCell : UITableViewCell
+
+@property (strong, nonatomic) IBOutlet UILabel *MovieList;
 
 @end
